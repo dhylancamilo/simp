@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    padding: 0;
+    margin: 0;
+   
+}
+.ola {
+    background-color: #ffd90f;
+}
+
+
+.slider {
+    width: 100%;
+    height: auto;
+}
+.cuerpo {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    height: 30rem;
+}
